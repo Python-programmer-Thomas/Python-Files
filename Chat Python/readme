@@ -1,0 +1,31 @@
+*******************************Suggestion**********************************
+Suggested to run on Kali GNU/Linux 2024.2. 
+Suggested to run on Python 3.11.9 (Apr 10 2024, 13:16:36). 
+****************************About Chat Python******************************
+Name: Chat Python
+Category: Chat Bot
+Necessary Python Libraries: nltk
+Version: 0.01
+***********************************Q&A*************************************
+Question 1:
+Why can't I run Chat Python properly? 
+Answer 1:
+There are two scenarios:
+First: NLTK library is not installed.
+Error example:
+Traceback (most recent call last):
+  File "Chat Python.py", line 1, in <module>
+    import nltk
+ModuleNotFoundError: No module named 'nltk'
+Solution: Install the NLTK library correctly with 'pip install nltk' and then rerun.
+
+Second: Python version is too low.
+Solution: Open the Python official website (www.python.org) in your browser, download the latest Python installer suitable for your system, install it, and then rerun. 
+----------------------------------------------------------------------------
+Question 2:
+Why does Chat Python always respond with "None"?
+Answer 2:
+Chat Python responds to user input based on predefined fixed patterns. If no matching response is found for the user input, it replies with 'None'. It is recommended to try rephrasing your question or asking a different one. 
+****************************Other Information******************************
+Program author: Thomas Li
+E-mail: lcrusually@outlook.com
