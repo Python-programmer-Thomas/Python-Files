@@ -5,7 +5,11 @@ Suggested to run on Python 3.11.9 (Apr 10 2024, 13:16:36).
 Name: Chat Python
 Category: Chat Bot
 Necessary Python Libraries: nltk
-Version: 0.01
+Latest version: 1.0
+**********************************Log**************************************
+2024.08.02    Version 1.0
+Add a logo before main loop. 
+2024.07.30    Version 0.01
 ***********************************Q&A*************************************
 Question 1:
 Why can't I run Chat Python properly? 

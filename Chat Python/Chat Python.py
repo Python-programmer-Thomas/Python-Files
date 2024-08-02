@@ -124,7 +124,22 @@ pairs = [
 
 # 创建聊天机器人
 def chatbot():
-    print("Hello! I'm Chat Python the ChatBot. Enter 'Goodbye! ' to exit. What can I help you? ")
+    print("   @@@@@@@@@@@@@@@@@    ")
+    print("@                                                                        @")
+    print("@                                                                        @")
+    print("@            @@@@@@@@@@                 @")
+    print("@        @                                       @                 @")
+    print("@        @                                       @                 @")
+    print("@        @                                       @                 @")
+    print("@        @                                       @                 @")
+    print("@        @                                       @                 @")
+    print("@        @                                       @                 @")
+    print("@        @                                        @                @")
+    print("@         @@@@@@@@@@@@@@@@")
+    print("")
+    print("Chat Python")
+    print("Version 1.0 (2024.08.02) ")
+    print("Hello! I'm Chat Python the ChatBot. Enter 'Goodbye! ' to exit. ")
     chat = Chat(pairs, reflections)
     username = input("Please enter your username first: ")
     while True:
